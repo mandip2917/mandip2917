@@ -18,7 +18,7 @@ I am a **Web Scraping Expert** with years of experience in extracting and organi
 - Schedule recurring scraping tasks (daily/weekly/monthly)
 
 
-## 🚀 Services We Offer
+## 🚀 Services I Offer
 
 - ✅ **Online Business Directory Scraping**  
   Extract detailed data from any business listing site.
